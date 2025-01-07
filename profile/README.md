@@ -10,4 +10,4 @@
 
 ### Workflow de travail : 
 
-![Workflow](./git_workflow.svg)
+![Workflow](../git_workflow.svg)
